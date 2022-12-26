@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\Finish_1\bin\Debug\net6.0\Finish_1.exe
+C:\Users\Анастасия\Desktop\Finish_1\bin\Debug\net6.0\Finish_1.deps.json
+C:\Users\Анастасия\Desktop\Finish_1\bin\Debug\net6.0\Finish_1.runtimeconfig.json
+C:\Users\Анастасия\Desktop\Finish_1\bin\Debug\net6.0\Finish_1.dll
+C:\Users\Анастасия\Desktop\Finish_1\bin\Debug\net6.0\Finish_1.pdb
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.dll
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\refint\Finish_1.dll
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.pdb
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\Finish_1.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\Finish_1\obj\Debug\net6.0\ref\Finish_1.dll
